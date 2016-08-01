@@ -1,0 +1,6 @@
+framework module Pods_TrainPeriod {
+  umbrella header "Pods-TrainPeriod-umbrella.h"
+
+  export *
+  module * { export * }
+}
